@@ -1,2 +1,7 @@
 # jslp
-JavaScript Lisp Parser
+
+Learning JavaScript bu building a LISP interpreter 
+
+
+https://github.com/anilpradyumnac/JsLParsing
+
